@@ -1,0 +1,10 @@
+package com.thetiebar.mapper;
+
+import org.springframework.stereotype.Component;
+//import org.modelmapper.ModelMapper;
+
+@Component
+public class ProductMapper {
+
+//	private static final ModelMapper mapper = new ModelMapper();
+}

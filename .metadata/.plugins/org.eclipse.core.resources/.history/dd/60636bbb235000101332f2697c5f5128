@@ -1,0 +1,5 @@
+package com.thetiebar.entity;
+
+public class Category {
+
+}

@@ -1,0 +1,5 @@
+package com.thetiebar.dto;
+
+public class CategoryDto {
+
+}
