@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 @RestControllerAdvice
 public class AppExcpHandler {
 
-	@ExceptionHandler
+	@ExceptionHandler(value = ProductServiceException.class)
 	public ResponseEntity<ErrorResponse> handleProductServiceException(ProductServiceException pse){
 		
 		ErrorResponse resp = new ErrorResponse();

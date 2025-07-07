@@ -13,5 +13,6 @@ public class ProductDto {
 	private String image;
 	private Integer discount;
 	private Double priceBeforeDiscount;
+	private CategoryDto category;
 
 }
