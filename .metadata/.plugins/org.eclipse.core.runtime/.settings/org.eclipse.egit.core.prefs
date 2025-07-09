@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=
-GitRepositoriesView.GitDirectories.relative=
+GitRepositoriesView.GitDirectories=C\:\\Pravin\\TheTileBar\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
 RepositorySearchDialogSearchPath=C\:\\Pravin\\TheTileBar
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
