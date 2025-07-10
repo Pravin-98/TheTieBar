@@ -10616,3 +10616,91 @@ Contains: Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:ja
 
 !ENTRY org.eclipse.lsp4e 1 0 2025-07-10 14:41:57.307
 !MESSAGE [Info]	No ES Libary found for file: file:///C:/Pravin/TheTileBar/01_Discovery_Server/src/main/resources/application.yml
+
+!ENTRY org.eclipse.equinox.security 1 0 2025-07-10 14:47:36.917
+!MESSAGE New keyring password generated. 
+
+!ENTRY org.eclipse.egit.core 4 0 2025-07-10 14:48:09.742
+!MESSAGE An exception occurred during push on URI https://github.com/Pravin-98/TheTieBar.git: https://github.com/Pravin-98/TheTieBar.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/Pravin-98/TheTieBar.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:138)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1537)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-07-10 14:48:09.743
+!MESSAGE Can't connect to any repository: https://github.com/Pravin-98/TheTieBar.git (https://github.com/Pravin-98/TheTieBar.git: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2025-07-10 14:51:43.551
+!MESSAGE An exception occurred during push on URI https://github.com/Pravin-98/TheTieBar.git: https://github.com/Pravin-98/TheTieBar.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/Pravin-98/TheTieBar.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:138)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1537)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-07-10 14:51:43.551
+!MESSAGE Can't connect to any repository: https://github.com/Pravin-98/TheTieBar.git (https://github.com/Pravin-98/TheTieBar.git: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2025-07-10 14:52:43.550
+!MESSAGE An exception occurred during push on URI https://github.com/Pravin-98/TheTieBar.git: https://github.com/Pravin-98/TheTieBar.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/Pravin-98/TheTieBar.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:138)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1537)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-07-10 14:52:43.550
+!MESSAGE Can't connect to any repository: https://github.com/Pravin-98/TheTieBar.git (https://github.com/Pravin-98/TheTieBar.git: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2025-07-10 14:57:33.837
+!MESSAGE An exception occurred during push on URI https://github.com/Pravin-98/TheTieBar.git: https://github.com/Pravin-98/TheTieBar.git: git-receive-pack not permitted on 'https://github.com/Pravin-98/TheTieBar.git/'
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/Pravin-98/TheTieBar.git: git-receive-pack not permitted on 'https://github.com/Pravin-98/TheTieBar.git/'
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:692)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:138)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1537)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-07-10 14:57:33.838
+!MESSAGE Can't connect to any repository: https://github.com/Pravin-98/TheTieBar.git (https://github.com/Pravin-98/TheTieBar.git: git-receive-pack not permitted on 'https://github.com/Pravin-98/TheTieBar.git/')
+
+!ENTRY org.eclipse.egit.core 4 0 2025-07-10 15:01:12.285
+!MESSAGE An exception occurred during push on URI https://github.com/Pravin-98/TheTieBar.git: https://github.com/Pravin-98/TheTieBar.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/Pravin-98/TheTieBar.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:138)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1537)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-07-10 15:01:12.286
+!MESSAGE Can't connect to any repository: https://github.com/Pravin-98/TheTieBar.git (https://github.com/Pravin-98/TheTieBar.git: not authorized)
