@@ -1,5 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-    <typeInfo handle="=05-Product_Service/C:\/Users\/pavan\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.5.1\/spring-data-jpa-3.5.1.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/3.5.1=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1750676298860"/>
-    <typeInfo handle="=05-Product_Service/C:\/Users\/pavan\/.m2\/repository\/org\/yaml\/snakeyaml\/2.4\/snakeyaml-2.4.jar=/maven.pomderived=/true=/=/maven.groupId=/org.yaml=/=/maven.artifactId=/snakeyaml=/=/maven.version=/2.4=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.yaml.snakeyaml.parser(Production.class[Production" modifiers="1536" timestamp="1750415919834"/>
-</typeInfoHistroy>
+<typeInfoHistroy/>
